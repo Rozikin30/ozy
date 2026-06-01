@@ -335,7 +335,7 @@ $transaksi = mysqli_query($conn, "SELECT * FROM transaksi ORDER BY id_transaksi 
 
     <div class="menu">
 
-        <a href="dashboard.php">
+        <a href="dassboard.php">
             <i class="fa-solid fa-table-columns"></i>
             Dashboard
         </a>
